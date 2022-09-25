@@ -21,6 +21,9 @@ body {
 
 .div1 {
     width: 50%;
+    margin: 10% 2% 2% 10%;
+
+
 }
 
 .div1 img {
@@ -34,8 +37,8 @@ body {
     padding-left: 5%;
 
     border-radius: 5px;
-    margin-top: 10px;
-    margin-bottom: 0px;
+    margin-top: 10%;
+    margin-bottom: 10%;
     margin-left: 10px;
     margin-right: 10px;
 
@@ -61,6 +64,8 @@ body {
     border-image-slice: 1;
     border-left: 5px solid;
     padding-left: 10px;
+
+
 }
 
 
@@ -149,9 +154,13 @@ body {
 }
 
 h1 {
-    font-size: 45px;
+    font-size: 70px;
 
 
+}
+
+h2 {
+    font-size: 50px;
 }
 
 p {
