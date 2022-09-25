@@ -5,6 +5,12 @@
 
 }
 
+body {
+
+    margin: 0px;
+
+}
+
 .section3 {
     padding-bottom: 100px;
 }
@@ -160,14 +166,21 @@ p {
 }
 
 .project {
-    width: 50%;
+    width: 70%;
     margin-left: 5%;
+    background-image: url(./mission-2022/images/shapes/shape-1.png);
+
+    background-position: bottom right 50%;
+    background-repeat: no-repeat;
+    background-size: 250px 250px;
+
 
 }
 
 .project img {
-    width: 60%;
-    height: 110%;
+    width: 50%;
+
+    height: 100%;
 
 
 }
@@ -201,6 +214,15 @@ p {
 
     margin-left: 30%;
     margin-right: 0%;
+    background-image: url(./mission-2022/images/shapes/shape-3.png);
+    background-size: 150px 150px;
+    background-repeat: no-repeat;
+    background-position: top right;
+
+
+
+
+
 }
 
 .stay-2 {
